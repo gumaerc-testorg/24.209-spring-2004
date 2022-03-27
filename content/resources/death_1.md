@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 202ec6c1-e20d-cfcf-8dc9-e96f045bbdff
 resourcetype: Document
 title: Living with Death
 uid: 6f965070-7931-8d77-3b27-b526c581272c

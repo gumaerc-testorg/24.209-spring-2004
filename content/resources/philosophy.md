@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 202ec6c1-e20d-cfcf-8dc9-e96f045bbdff
 resourcetype: Document
 title: 'The Silence in Heaven: Finding Meaning In Life'
 uid: 79c530ee-36f6-fd1c-1264-fadb16a853de

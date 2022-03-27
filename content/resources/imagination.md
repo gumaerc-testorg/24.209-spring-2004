@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 202ec6c1-e20d-cfcf-8dc9-e96f045bbdff
 resourcetype: Document
 title: Imagination and Perception
 uid: 61175bc9-1b13-edc3-29c8-d0c86ca8d2ff
