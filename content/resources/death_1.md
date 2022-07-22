@@ -5,6 +5,7 @@ file: /courses/24-209-philosophy-in-film-and-other-media-spring-2004/6f965070793
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Living with Death
 uid: 6f965070-7931-8d77-3b27-b526c581272c
 ---
 Sample student paper courtesy of Edward W. Song. Used with permission.
-

@@ -5,6 +5,7 @@ file: /courses/24-209-philosophy-in-film-and-other-media-spring-2004/79c530ee36f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'The Silence in Heaven: Finding Meaning In Life'
 uid: 79c530ee-36f6-fd1c-1264-fadb16a853de
 ---
 Sample student paper courtesy of author. Used with permission.
-
