@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a description of the course assignments and examples
+  of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 202ec6c1-e20d-cfcf-8dc9-e96f045bbdff
 ---
@@ -9,8 +14,8 @@ No quizzes or exams, but students are required to attend every class, (whether o
 Sample Student Work
 -------------------
 
-Living with Death ([PDF]({{< baseurl >}}/resources/death_1)) (Courtesy of Edward W. Song. Used with permission.)
+Living with Death ({{% resource_link 6f965070-7931-8d77-3b27-b526c581272c "PDF" %}}) (Courtesy of Edward W. Song. Used with permission.)
 
-Imagination and Perception ([PDF]({{< baseurl >}}/resources/imagination)) (Courtesy of Edward W. Song. Used with permission.)
+Imagination and Perception ({{% resource_link 61175bc9-1b13-edc3-29c8-d0c86ca8d2ff "PDF" %}}) (Courtesy of Edward W. Song. Used with permission.)
 
-The Silence in Heaven: Finding Meaning In Life ([PDF]({{< baseurl >}}/resources/philosophy)) (Courtesy of Anonymous. Used with permission.)
+The Silence in Heaven: Finding Meaning In Life ({{% resource_link 79c530ee-36f6-fd1c-1264-fadb16a853de "PDF" %}}) (Courtesy of Anonymous. Used with permission.)

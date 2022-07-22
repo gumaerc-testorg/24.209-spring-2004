@@ -1,6 +1,11 @@
 ---
 content_type: video_gallery
+description: This section provides a selection of course sessions recorded especially
+  for OpenCourseWare.
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Video Lectures
 uid: b09c88cd-1fcb-43b7-1195-b5a21b766594
 videos:
