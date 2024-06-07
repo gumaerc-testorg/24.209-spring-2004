@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample student paper courtesy of Edward W. Song. Used with permission.
 file: /courses/24-209-philosophy-in-film-and-other-media-spring-2004/61175bc91b13edc329c8d0c86ca8d2ff_imagination.pdf
+file_size: 24053
 file_type: application/pdf
 learning_resource_types:
 - Assignments
