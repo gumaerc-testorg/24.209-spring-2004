@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample student paper courtesy of Edward W. Song. Used with permission.
 file: /courses/24-209-philosophy-in-film-and-other-media-spring-2004/6f96507079318d773b27b526c581272c_death_1.pdf
+file_size: 29107
 file_type: application/pdf
 learning_resource_types:
 - Assignments
