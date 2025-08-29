@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample student paper courtesy of author. Used with permission.
-file: /courses/24-209-philosophy-in-film-and-other-media-spring-2004/79c530ee36f6fd1c1264fadb16a853de_Philosophy.pdf
+file: /ol-ocw-studio-app/courses/24-209-philosophy-in-film-and-other-media-spring-2004/79c530ee36f6fd1c1264fadb16a853de_Philosophy.pdf
 file_size: 42591
 file_type: application/pdf
 learning_resource_types:
